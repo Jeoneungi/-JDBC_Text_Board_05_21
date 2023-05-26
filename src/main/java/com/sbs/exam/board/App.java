@@ -30,7 +30,7 @@ public class App {
 
         articles.add(article);
 
-        System.out.printf("%d번 게시물이 등록되었습니다.\n", article.id);
+        System.out.printf("%d번 게시물이 등록되었습니다람쥐 .\n", article.id);
 
       }
 
