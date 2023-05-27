@@ -7,6 +7,16 @@
     <groupId>org.example</groupId>
     <artifactId>JDBC_Text_Board_05_21</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.28</version>
+        </dependency>
+
+    </dependencies>
+
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
