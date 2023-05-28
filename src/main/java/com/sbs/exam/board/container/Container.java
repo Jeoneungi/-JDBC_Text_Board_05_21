@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Container {
   public static Scanner scanner;
 
-  static  {
+  static {
     scanner = new Scanner(System.in);
   }
 }
